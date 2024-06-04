@@ -5,5 +5,6 @@ print("push & pull exercise")
 print("What about this ?")
 print("grapes")
 print("mango")
-
+print("pear")
+print("avocado")
 
