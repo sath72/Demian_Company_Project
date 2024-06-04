@@ -7,4 +7,3 @@ print("grapes")
 print("mango")
 print("pear")
 print("avocado")
-
